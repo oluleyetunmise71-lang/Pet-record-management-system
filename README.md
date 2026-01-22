@@ -1,7 +1,7 @@
 # Pet-record-management-system
 * Name : Oluleye Emmanuel
-* Matric no : 24/14101
-* Department : Software engineering
+* Matric no : 24/14057
+* Department : Computer science
 
 # 1. Requirement Analysis
 This system records pet information for owners.
