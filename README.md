@@ -1,5 +1,5 @@
 # Pet-record-management-system
-* Name : Oluleye Emmanuel
+* Name : Oluleye oluwatunmise Emmanuel
 * Matric no : 24/14057
 * Department : Computer science
 
